@@ -1,0 +1,7 @@
+.box1{
+  position: relative;
+  padding-top:20%;
+}
+.box2{
+  margin-top:40px;
+}

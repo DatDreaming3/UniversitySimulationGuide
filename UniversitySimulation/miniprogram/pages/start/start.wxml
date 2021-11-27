@@ -1,0 +1,5 @@
+<view class="box1">
+<navigator url="../../pages/game/game">
+<button type="primary" class="box2">游戏</button></navigator>
+<navigator url="../../pages/info/info" class="box2">
+<button type="primary">资料</button></navigator></view>
