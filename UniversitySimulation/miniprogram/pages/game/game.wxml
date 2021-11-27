@@ -1,0 +1,5 @@
+<view style="text-align: center;">知识储备：{{suxing1}}身体健康：{{suxing2}}成就感：{{suxing3}}</view>
+<view class="box1">
+<scroll-view scroll-y scroll-top="{{hig}}" class="body"><text>{{value}}</text></scroll-view></view>
+<button bindtap="number" class="foot" style="width:500rpx" disabled="{{clock}}">click me</button>
+<button type="primary" bindtap="jump">重新开始</button>
