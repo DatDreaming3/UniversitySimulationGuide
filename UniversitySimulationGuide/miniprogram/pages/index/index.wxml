@@ -1,0 +1,9 @@
+<form bindsubmit="addData">
+<textarea name="event" placeholder="请输入事件内容"></textarea>
+<button type="primary" form-type="submit">提交</button>
+  <button type="primary" form-type="reset">清空</button>
+</form>
+
+
+
+
